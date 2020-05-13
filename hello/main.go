@@ -36,5 +36,5 @@ func main() {
 
 	//Calling function
 
-	fmt.Println(strutil.Reverse("Kawshik"))
+	fmt.Println(strutil.Reverse("Swarna"))
 }
